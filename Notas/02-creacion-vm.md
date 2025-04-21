@@ -42,15 +42,15 @@ Fecha: 20/04/2025
 
 - **Configuración de RAM y CPUs:**
   
-  ![RAM y CPUs](../Screenshots/memoria-ram-cpu.png)
+  ![RAM y CPUs](../Screenshots/memoria-procesadores-configuracion.png)
 
 - **Creación de Disco Duro:**
   
-  ![Disco Duro](../Screenshots/creacion-disco.png)
+  ![Disco Duro](../Screenshots/memoria-procesadores-configuracion2.png)
 
 - **Montaje de ISO:**
   
-  ![Montaje ISO](../Screenshots/montaje-iso.png)
+  ![Montaje ISO](../Screenshots/memoria-procesadores-configuracion2.png)
 
 ---
 
